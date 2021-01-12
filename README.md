@@ -1,9 +1,5 @@
 # Calculadora-M-dia-Escolar-Next-Level
 
-<div align='center'>
-<img src=".github/logo.png" width='250'>
-</div>
-
 ## 🚀 Atividade
 
 A Next Level, uma moderna e conceituada universidade, necessita de um sistema de gestão acadêmico.
